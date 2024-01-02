@@ -32,7 +32,7 @@ carpe diem!에서는 gpt를 이용한 음성녹음 분석 기능 통해 매일 �
 ### PM, Design
 | <img src="https://avatars.githubusercontent.com/u/99470706?v=4" width="60" height="60"> | <img src="https://github.com/UMC-E-TEAM/.github/blob/main/%EC%83%88%EB%B2%BD.png" width="48" height="60"> |
 |:---:|:---:|
-| [앤/최서영](https://github.com/akaseoyoung) | [새벽/조수빈](https://https://exclusive-sunshine-694.notion.site/af6151a8dcbe49d982b3ac7dde8ebeb7?pvs=4) |
+| [앤/최서영](https://github.com/akaseoyoung) | [새벽/조수빈](https://exclusive-sunshine-694.notion.site/af6151a8dcbe49d982b3ac7dde8ebeb7?pvs=4) |
 | - 기획 총괄 | - 디자인 총괄 |
 
 ### Backend
