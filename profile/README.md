@@ -45,4 +45,4 @@ carpe diem!에서는 gpt를 이용한 음성녹음 분석 기능 통해 매일 �
 | <img src="https://avatars.githubusercontent.com/u/79906093?v=4" width="60" height="60"> | <img src="https://avatars.githubusercontent.com/u/137189866?v=4" width="60" height="60"> | <img src="https://avatars.githubusercontent.com/u/129590633?v=4" width="60" height="60"> | <img src="https://avatars.githubusercontent.com/u/49388937?v=4" width="60" height="60"> |
 |:---:|:---:|:---:|:---:|
 | [히동/김소희](https://github.com/sohee5143) | [제트/노찬영](https://github.com/shroqkf) | [은별/정은지](https://github.com/bianbbc87) | [사비엔/한우준](https://github.com/MrMirror21) |
-| - 추천장소 | - 알뜰신잡 | - 룰렛 | - 음성인식 |
+| - 추천장소 | - 알쓸신잡 | - 룰렛 | - 음성인식 |
